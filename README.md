@@ -1,4 +1,4 @@
-# Othello
+# Description
 A strategy board game for two players
 
 # Required inputs:
